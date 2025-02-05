@@ -1,0 +1,51 @@
+DATE_KEY,AS_OF_DATE_FORMATTED,PORTFOLIO_KEY,PORTFOLIO_CODE,PRODUCT_CODE,PORTFOLIO_NAME,PORTFOLIO_LONG_NAME,PORTFOLIO_STATUS_CODE,PORTFOLIO_STATUS_DESC,PORTFOLIO_TYPE
+20230831,31-Aug-23,1,PQ1,USSMID,Credit Quality,Credit Quality Fund,A,Active,Fixed Income
+20230831,31-Aug-23,2,PQ2,ASIAEQ,Sector Fund,Sector Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,3,PQ3,EUROPB,Duration Fund,Duration Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,4,PQ4,GLBINF,Regional Fund,Regional Allocation Fund,A,Active,Infrastructure
+20230831,31-Aug-23,5,PQ5,EMERGMKT,ESG Fund,ESG Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,6,PQ6,USLARGE,Credit Fund,Credit Quality Fund,A,Active,Equity
+20230831,31-Aug-23,7,PQ7,LATAMBND,Quality Fund,Quality Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,8,PQ8,JAPANEQ,ESG Fund,ESG Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,9,PQ9,GLBTECH,Duration Fund,Duration Allocation Fund,A,Active,Technology
+20230831,31-Aug-23,10,PQ10,CANBND,ESG Fund,ESG Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,11,PQ11,GLBHEALTH,Sector Fund,Sector Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,12,PQ12,USREIT,ESG Fund,ESG Allocation Fund,A,Active,Real Estate
+20230831,31-Aug-23,13,PQ13,ASIAFIX,Duration Fund,Duration Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,14,PQ14,EUROPINF,ESG Fund,ESG Allocation Fund,A,Active,Infrastructure
+20230831,31-Aug-23,15,PQ15,LATAMEQ,Sector Fund,Sector Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,16,PQ16,GLBENERGY,Regional Fund,Regional Allocation Fund,A,Active,Energy
+20230831,31-Aug-23,17,PQ17,JAPANBND,ESG Fund,ESG Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,18,PQ18,EMERGINF,Credit Fund,Credit Quality Fund,A,Active,Infrastructure
+20230831,31-Aug-23,19,PQ19,CANEQ,Sector Fund,Sector Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,20,PQ20,GLBALT,ESG Fund,ESG Allocation Fund,A,Active,Alternatives
+20230831,31-Aug-23,21,PQ21,GLBFIN,Duration Fund,Duration Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,22,PQ22,USSMALL,Regional Fund,Regional Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,23,PQ23,ASIAALT,ESG Fund,ESG Allocation Fund,A,Active,Alternatives
+20230831,31-Aug-23,24,PQ24,EUROPVAL,Credit Fund,Credit Quality Fund,A,Active,Equity
+20230831,31-Aug-23,25,PQ25,GLBESG,ESG Fund,ESG Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,26,PQ26,LATAMINF,Regional Fund,Regional Allocation Fund,A,Active,Infrastructure
+20230831,31-Aug-23,27,PQ27,JAPANTECH,Duration Fund,Duration Allocation Fund,A,Active,Technology
+20230831,31-Aug-23,28,PQ28,GLBENERGY2,ESG Fund,ESG Allocation Fund,A,Active,Energy
+20230831,31-Aug-23,29,PQ29,CANALT,Regional Fund,Regional Allocation Fund,A,Active,Alternatives
+20230831,31-Aug-23,30,PQ30,GLBHEALTH2,Credit Fund,Credit Quality Fund,A,Active,Healthcare
+20230831,31-Aug-23,31,PQ31,USGROWTH,ESG Fund,ESG Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,32,PQ32,ASIAREAL,Duration Fund,Duration Allocation Fund,A,Active,Real Estate
+20230831,31-Aug-23,33,PQ33,EUFIXED,Regional Fund,Regional Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,34,PQ34,GLBCLIMATE,Credit Fund,Credit Quality Fund,A,Active,Energy
+20230831,31-Aug-23,35,PQ35,EMERGEQ,ESG Fund,ESG Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,36,PQ36,USVALUE,Duration Fund,Duration Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,37,PQ37,LATAMFIX,Regional Fund,Regional Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,38,PQ38,JAPANALT,ESG Fund,ESG Allocation Fund,A,Active,Alternatives
+20230831,31-Aug-23,39,PQ39,GLBTECH2,Credit Fund,Credit Quality Fund,A,Active,Technology
+20230831,31-Aug-23,40,PQ40,CANFIX,ESG Fund,ESG Allocation Fund,A,Active,Fixed Income
+20230831,31-Aug-23,41,PQ41,USMICRO,Regional Fund,Regional Allocation Fund,A,Active,Equity
+20230831,31-Aug-23,42,PQ42,ASIAENERGY,Duration Fund,Duration Allocation Fund,A,Active,Energy
+20230831,31-Aug-23,43,PQ43,EUROPTECH,ESG Fund,ESG Allocation Fund,A,Active,Technology
+20230831,31-Aug-23,44,PQ44,GLBINFRA,Regional Fund,Regional Allocation Fund,A,Active,Infrastructure
+20230831,31-Aug-23,45,PQ45,LATAMTECH,Credit Fund,Credit Quality Fund,A,Active,Technology
+20230831,31-Aug-23,46,PQ46,JAPANREAL,ESG Fund,ESG Allocation Fund,A,Active,Real Estate
+20230831,31-Aug-23,47,PQ47,GLBALT2,Regional Fund,Regional Allocation Fund,A,Active,Alternatives
+20230831,31-Aug-23,48,PQ48,CANENERGY,ESG Fund,ESG Allocation Fund,A,Active,Energy
+20230831,31-Aug-23,49,PQ49,GLBHEALTH3,Duration Fund,Duration Allocation Fund,A,Active,Healthcare
+20230831,31-Aug-23,50,PQ50,USVALUE2,Credit Fund,Credit Quality Fund,A,Active,Equity

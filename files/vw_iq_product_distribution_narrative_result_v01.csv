@@ -1,0 +1,51 @@
+DATE_KEY,AS_OF_DATE_FORMATTED,PRODUCT_CODE,PRODUCT_TYPE,PRODUCT_TYPE_CODE,PRODUCT_BUSINESS_STATUS_DESC,PRODUCT_NAME,NARRATIVE_CODE,NARRATIVE_TYPE,NARRATIVE_DESC,NARRATIVE_TEXT,SORT_ORDER,NARRATIVE_STATUS,START_DATE,LANGUAGE_CODE
+20230831,31-Aug-23,USSMID,Fixed Income,Mutual Fund,Open,US Small-Mid Cap Fund,RB34,Risk Statement,Counterparty and Operational Risk,Active,Y,Active,14-Feb-20,US
+20230831,31-Aug-23,ASIAEQ,Equity,Mutual Fund,Open,Asia Equity Fund,RB34,Risk Statement,Counterparty and Operational Risk,Active,Y,Active,01-Jan-21,JP
+20230831,31-Aug-23,EUROPB,Fixed Income,Mutual Fund,Open,European Bond Fund,RB12,Risk Statement,Interest Rate Risk,Active,Y,Active,15-Mar-19,EU
+20230831,31-Aug-23,GLBINF,Infrastructure,Mutual Fund,Open,Global Infrastructure,RB56,Risk Statement,Infrastructure Risk,Active,Y,Active,10-Jul-20,US
+20230831,31-Aug-23,EMERGMKT,Equity,Mutual Fund,Open,Emerging Markets Fund,RB78,Risk Statement,Currency Risk,Active,Y,Active,05-May-18,US
+20230831,31-Aug-23,USLARGE,Equity,Mutual Fund,Open,US Large Cap Fund,RB34,Risk Statement,Market Risk,Active,Y,Active,20-Aug-19,US
+20230831,31-Aug-23,LATAMBND,Fixed Income,Mutual Fund,Open,Latin America Bond Fund,RB12,Risk Statement,Credit Risk,Active,Y,Active,12-Dec-20,US
+20230831,31-Aug-23,JAPANEQ,Equity,Mutual Fund,Open,Japan Equity Fund,RB34,Risk Statement,Market Risk,Active,Y,Active,01-Apr-21,JP
+20230831,31-Aug-23,GLBTECH,Technology,Mutual Fund,Open,Global Technology Fund,RB56,Risk Statement,Technology Risk,Active,Y,Active,18-Nov-19,US
+20230831,31-Aug-23,CANBND,Fixed Income,Mutual Fund,Open,Canadian Bond Fund,RB12,Risk Statement,Interest Rate Risk,Active,Y,Active,25-Jun-20,CA
+20230831,31-Aug-23,GLBHEALTH,Equity,ETF,Open,Global Healthcare Fund,RB45,Risk Statement,Healthcare Sector Risk,Active,Y,Active,10-Jan-22,US
+20230831,31-Aug-23,USREIT,Real Estate,Mutual Fund,Open,US Real Estate Fund,RB67,Risk Statement,Real Estate Market Risk,Active,Y,Active,15-Feb-21,US
+20230831,31-Aug-23,ASIAFIX,Fixed Income,ETF,Open,Asia Fixed Income Fund,RB12,Risk Statement,Credit Quality Risk,Active,Y,Active,20-Mar-20,JP
+20230831,31-Aug-23,EUROPINF,Infrastructure,Mutual Fund,Open,European Infrastructure,RB89,Risk Statement,Infrastructure Development Risk,Active,Y,Active,05-May-19,EU
+20230831,31-Aug-23,LATAMEQ,Equity,Mutual Fund,Open,Latin America Equity Fund,RB34,Risk Statement,Currency Volatility Risk,Active,Y,Active,12-Jun-21,US
+20230831,31-Aug-23,GLBENERGY,Energy,ETF,Open,Global Energy Fund,RB78,Risk Statement,Energy Sector Risk,Active,Y,Active,18-Jul-20,US
+20230831,31-Aug-23,JAPANBND,Fixed Income,Mutual Fund,Open,Japan Bond Fund,RB12,Risk Statement,Interest Rate Risk,Active,Y,Active,25-Aug-19,JP
+20230831,31-Aug-23,EMERGINF,Infrastructure,ETF,Open,Emerging Markets Infra,RB56,Risk Statement,Emerging Market Infra Risk,Active,Y,Active,01-Sep-22,US
+20230831,31-Aug-23,CANEQ,Equity,Mutual Fund,Open,Canadian Equity Fund,RB34,Risk Statement,Market Volatility Risk,Active,Y,Active,10-Oct-20,CA
+20230831,31-Aug-23,GLBALT,Alternatives,ETF,Open,Global Alternative Fund,RB90,Risk Statement,Alternative Asset Risk,Active,Y,Active,15-Nov-21,US
+20230831,31-Aug-23,GLBFIN,Equity,ETF,Open,Global Financial Fund,RB01,Risk Statement,Financial Sector Risk,Active,Y,Active,01-Feb-22,US
+20230831,31-Aug-23,USSMALL,Equity,Mutual Fund,Open,US Small Cap Fund,RB02,Risk Statement,Small Cap Market Risk,Active,Y,Active,15-Mar-21,US
+20230831,31-Aug-23,ASIAALT,Alternatives,ETF,Open,Asia Alternative Fund,RB03,Risk Statement,Alternative Asset Risk,Active,Y,Active,10-Jan-20,JP
+20230831,31-Aug-23,EUROPVAL,Equity,Mutual Fund,Open,European Value Fund,RB04,Risk Statement,Value Investing Risk,Active,Y,Active,05-May-22,EU
+20230831,31-Aug-23,GLBESG,Equity,ETF,Open,Global ESG Fund,RB05,Risk Statement,ESG Compliance Risk,Active,Y,Active,20-Jul-21,US
+20230831,31-Aug-23,LATAMINF,Infrastructure,Mutual Fund,Open,Latin America Infra Fund,RB06,Risk Statement,Infrastructure Development Risk,Active,Y,Active,12-Dec-19,US
+20230831,31-Aug-23,JAPANTECH,Technology,ETF,Open,Japan Technology Fund,RB07,Risk Statement,Technology Sector Risk,Active,Y,Active,01-Apr-22,JP
+20230831,31-Aug-23,GLBENERGY2,Energy,Mutual Fund,Open,Global Renewable Energy,RB08,Risk Statement,Renewable Energy Risk,Active,Y,Active,18-Jul-22,US
+20230831,31-Aug-23,CANALT,Alternatives,ETF,Open,Canadian Alternative Fund,RB09,Risk Statement,Alternative Asset Risk,Active,Y,Active,10-Oct-21,CA
+20230831,31-Aug-23,GLBHEALTH2,Healthcare,Mutual Fund,Open,Global Biotech Fund,RB10,Risk Statement,Biotech Sector Risk,Active,Y,Active,15-Nov-22,US
+20230831,31-Aug-23,USGROWTH,Equity,Mutual Fund,Open,US Growth Fund,NR01,Risk Statement,Growth Market Volatility,Active,Y,Active,01-Jan-22,US
+20230831,31-Aug-23,ASIAREAL,Real Estate,ETF,Open,Asia Real Estate Fund,NR02,Risk Statement,Real Estate Market Risk,Active,Y,Active,15-Feb-21,JP
+20230831,31-Aug-23,EUFIXED,Fixed Income,Mutual Fund,Open,European Fixed Income,NR03,Risk Statement,Interest Rate Sensitivity,Active,Y,Active,10-Mar-20,EU
+20230831,31-Aug-23,GLBCLIMATE,Energy,ETF,Open,Global Climate Fund,NR04,Risk Statement,Climate Change Risk,Active,Y,Active,20-Jul-21,US
+20230831,31-Aug-23,EMERGEQ,Equity,Mutual Fund,Open,Emerging Markets Equity,NR05,Risk Statement,Emerging Market Volatility,Active,Y,Active,05-May-19,US
+20230831,31-Aug-23,USVALUE,Equity,Mutual Fund,Open,US Value Fund,NR06,Risk Statement,Value Investing Risk,Active,Y,Active,20-Aug-19,US
+20230831,31-Aug-23,LATAMFIX,Fixed Income,Mutual Fund,Open,Latin America Fixed Inc.,NR07,Risk Statement,Credit Risk,Active,Y,Active,12-Dec-20,US
+20230831,31-Aug-23,JAPANALT,Alternatives,ETF,Open,Japan Alternative Fund,NR08,Risk Statement,Alternative Asset Risk,Active,Y,Active,01-Apr-21,JP
+20230831,31-Aug-23,GLBTECH2,Technology,Mutual Fund,Open,Global AI Technology Fund,NR09,Risk Statement,Technology Disruption Risk,Active,Y,Active,18-Nov-19,US
+20230831,31-Aug-23,CANFIX,Fixed Income,Mutual Fund,Open,Canadian Fixed Income,NR10,Risk Statement,Interest Rate Risk,Active,Y,Active,25-Jun-20,CA
+20230831,31-Aug-23,USMICRO,Equity,Mutual Fund,Open,US Micro Cap Fund,NR11,Risk Statement,Micro Cap Market Volatility,Active,Y,Active,01-Jan-22,US
+20230831,31-Aug-23,ASIAENERGY,Energy,ETF,Open,Asia Energy Fund,NR12,Risk Statement,Energy Sector Volatility,Active,Y,Active,15-Feb-21,JP
+20230831,31-Aug-23,EUROPTECH,Technology,Mutual Fund,Open,European Tech Fund,NR13,Risk Statement,Technology Sector Risk,Active,Y,Active,10-Mar-20,EU
+20230831,31-Aug-23,GLBINFRA,Infrastructure,ETF,Open,Global Infrastructure 2,NR14,Risk Statement,Infrastructure Development Risk,Active,Y,Active,20-Jul-21,US
+20230831,31-Aug-23,LATAMTECH,Technology,Mutual Fund,Open,Latin America Tech Fund,NR15,Risk Statement,Technology Market Risk,Active,Y,Active,12-Dec-20,US
+20230831,31-Aug-23,JAPANREAL,Real Estate,ETF,Open,Japan Real Estate Fund,NR16,Risk Statement,Real Estate Market Volatility,Active,Y,Active,01-Apr-21,JP
+20230831,31-Aug-23,GLBALT2,Alternatives,Mutual Fund,Open,Global Alternative Fund 2,NR17,Risk Statement,Alternative Asset Risk,Active,Y,Active,18-Nov-19,US
+20230831,31-Aug-23,CANENERGY,Energy,ETF,Open,Canadian Energy Fund,NR18,Risk Statement,Energy Market Volatility,Active,Y,Active,25-Jun-20,CA
+20230831,31-Aug-23,GLBHEALTH3,Healthcare,Mutual Fund,Open,Global Pharma Fund,NR19,Risk Statement,Pharma Sector Risk,Active,Y,Active,15-Nov-22,US
+20230831,31-Aug-23,USVALUE2,Equity,Mutual Fund,Open,US Value Fund 2,NR20,Risk Statement,Value Investing Risk,Active,Y,Active,20-Aug-19,US
