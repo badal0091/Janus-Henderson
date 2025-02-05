@@ -1,0 +1,17 @@
+{
+    "demos": [
+      {
+        "title": "Sample Data",
+        "files": [
+        "files/VW_IQ_CHARACTERISTICS_RESULT_V01.csv",
+        "files/VW_IQ_COUNTRIES_OF_REGISTRATION_RESULT_V01.csv",
+        "files/vw_iq_holdings_breakdowns_result_v01.csv",
+        "files/VW_IQ_PORTFOLIO_ENTITY_RESULT_V01.csv",
+        "files/vw_iq_product_distribution_narrative_result_v01.csv",
+        "files/vw_iq_product_performance_and_aum_result_v01.csv",
+        "files/vw_iq_strategy_result_v01.csv"
+      ]
+      }
+    ]
+  }
+  

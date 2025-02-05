@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+svg {
+    cursor: pointer;
+}
+rect:hover {
+    fill: rgb(227, 221, 221);
+}
